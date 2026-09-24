@@ -1,0 +1,42 @@
+{
+ "images": [
+  {
+   "id": "imuf6i5irjinc4",
+   "title": "affiche etude doc",
+   "author": "",
+   "year": "",
+   "technique": "",
+   "source": "",
+   "img": "images/imuf6i5irjinc4.jpg",
+   "sections": {
+    "couleurs": {
+     "text": "Test",
+     "palette": [
+      "#e3e2db",
+      "#c5c3bc",
+      "#372c25",
+      "#9b9a95",
+      "#584d46",
+      "#787875"
+     ]
+    },
+    "composition": {
+     "text": "Test",
+     "overlay": "none"
+    },
+    "lignes": {
+     "text": "Test",
+     "lines": []
+    },
+    "auteur": {
+     "text": "Test"
+    },
+    "interpretation": {
+     "text": "Test"
+    }
+   },
+   "spots": [],
+   "updatedAt": 1790233038706
+  }
+ ]
+}
