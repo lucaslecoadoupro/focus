@@ -1,6 +1,98 @@
 {
  "images": [
   {
+   "id": "imuzhc3bu21jis",
+   "title": "Cartel de cine – Malasaña 32",
+   "author": "Albert Pintó (director)",
+   "year": "2020",
+   "technique": "Cartel cinematográfico, fotografía y montaje digital",
+   "source": "Warner Bros. Pictures España",
+   "img": "images/imuzhc3bu21jis-muzhnz1e.jpg",
+   "sections": {
+    "couleurs": {
+     "text": "En el cartel predominan los colores oscuros, especialmente el marrón, el negro y el gris. Estos tonos crean una atmósfera antigua, misteriosa e inquietante.\nPoint sur le sol éclairé devant l'enfant.\nLa iluminación es débil y crea sombras muy marcadas. El contraste entre la luz y la oscuridad aumenta la sensación de peligro.\nPoint sur le slogan rouge « Bienvenidos a su casa ».\nAlgunas palabras aparecen en rojo. Este color puede simbolizar el peligro, la violencia y el miedo. Contrasta con los tonos apagados del cartel.",
+     "palette": [
+      "#181617",
+      "#393734",
+      "#65533a",
+      "#977b57",
+      "#c7975a",
+      "#686767"
+     ]
+    },
+    "composition": {
+     "text": "En el centro de la imagen vemos a un niño de espaldas, delante de una puerta cerrada. Parece pequeño, solo y vulnerable. No podemos ver su rostro, lo que aumenta el misterio.\nLa puerta ocupa gran parte del cartel. Está cerrada y parece antigua. Puede representar la frontera entre el mundo conocido y lo desconocido. El espectador se pregunta qué hay detrás.\nLas paredes están deterioradas y el edificio parece viejo y abandonado. Este decorado crea una sensación de inseguridad y sugiere que el lugar esconde secretos.\nEl espectador observa la escena desde detrás del niño. Esta perspectiva nos invita a imaginar que estamos en el mismo pasillo y a compartir su inquietud.\nLa puerta parece enorme en comparación con el niño. Esta diferencia de tamaño refuerza su fragilidad y transmite una sensación de amenaza.",
+     "overlay": "none"
+    },
+    "lignes": {
+     "text": "La puerta y el niño se sitúan sobre un eje vertical central que atrae la mirada del espectador y refuerza la sensación de encierro.\nLas líneas del suelo convergen hacia la puerta y el personaje. Guían la mirada hacia el centro de la imagen y crean una sensación de profundidad.",
+     "lines": [
+      {
+       "x1": 29.64,
+       "y1": 13.9,
+       "x2": 31.53,
+       "y2": 76.5
+      },
+      {
+       "x1": 73.79,
+       "y1": 12.97,
+       "x2": 73.79,
+       "y2": 76.47
+      },
+      {
+       "x1": 28.58,
+       "y1": 47.03,
+       "x2": 0.28,
+       "y2": 52.39
+      },
+      {
+       "x1": 75.43,
+       "y1": 46.67,
+       "x2": 100,
+       "y2": 35.73
+      },
+      {
+       "x1": 52.43,
+       "y1": 82.79,
+       "x2": 52.43,
+       "y2": 91.56
+      },
+      {
+       "x1": 31.51,
+       "y1": 14.57,
+       "x2": 72.31,
+       "y2": 13.71
+      }
+     ]
+    },
+    "auteur": {
+     "text": "Malasaña 32 es una película española de terror sobrenatural dirigida por Albert Pintó y estrenada en 2020.\nLa historia se desarrolla en Madrid, en 1976, durante la Transición democrática española. Una familia abandona el campo para comenzar una nueva vida en la capital. Se instala en un antiguo piso del barrio de Malasaña, pero pronto descubre que su nueva casa esconde una presencia misteriosa.\nLa película aborda temas como el miedo, la familia y los secretos del pasado."
+    },
+    "interpretation": {
+     "text": "El cartel de Malasaña 32 presenta una escena aparentemente sencilla: un niño está delante de una puerta cerrada en un edificio antiguo.\nSin embargo, la oscuridad, las sombras y el estado deteriorado del lugar transforman esta situación cotidiana en una escena inquietante.\nLa puerta simboliza lo desconocido, mientras que el niño representa la inocencia y la vulnerabilidad.\nEl mensaje principal del cartel es que un lugar que debería protegernos, como nuestra propia casa, también puede esconder peligros."
+    }
+   },
+   "spots": [
+    {
+     "id": "imuzhmo3f3vggh",
+     "x": 83.92,
+     "y": 16.98,
+     "cat": "interpretation",
+     "title": "El título: « Malasaña 32 »",
+     "text": "El título indica un lugar preciso: un edificio situado en el número 32 de una calle del barrio de Malasaña, en Madrid. Al utilizar una dirección, el cartel da una impresión de realidad y despierta la curiosidad del espectador."
+    },
+    {
+     "id": "imuzhnfb4kesus",
+     "x": 32.59,
+     "y": 92.39,
+     "cat": "interpretation",
+     "title": "La función del cartel",
+     "text": "El objetivo del cartel es provocar miedo y curiosidad. No muestra directamente ningún monstruo o fantasma, pero utiliza la oscuridad, la puerta cerrada y la soledad del niño para sugerir una amenaza invisible."
+    }
+   ],
+   "updatedAt": 1791461068317
+  },
+  {
    "id": "imuzh2ajpseey5",
    "title": "Cartel de cine - Mientras duermes",
    "author": "Película dirigida por Jaume Balagueró",
