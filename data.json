@@ -1,6 +1,86 @@
 {
  "images": [
   {
+   "id": "imuzh2ajpseey5",
+   "title": "Cartel de cine - Mientras duermes",
+   "author": "Película dirigida por Jaume Balagueró",
+   "year": "2011",
+   "technique": "Cartel cinematográfico, fotografía y composición digital",
+   "source": "Filmax, España",
+   "img": "images/imuzh2ajpseey5-muzhbm0y.jpg",
+   "sections": {
+    "couleurs": {
+     "text": "En el cartel predominan el negro y los tonos grisáceos. Estos colores crean una atmósfera misteriosa, inquietante y angustiosa.\nLa cama y el cuerpo de la mujer están iluminados, mientras que el resto de la habitación permanece en la oscuridad. Este contraste dirige la mirada del espectador hacia la víctima.\nLa iluminación es tenue y fría. Sugiere que la escena ocurre de noche y refuerza la sensación de peligro.",
+     "palette": [
+      "#030302",
+      "#262827",
+      "#474848",
+      "#666766",
+      "#798788",
+      "#b8c6c7"
+     ]
+    },
+    "composition": {
+     "text": "La composición establece una relación visual entre el ojo y la mujer. La mirada del observador se dirige hacia ella, creando una situación de tensión entre quien vigila y quien es vigilado\nLa escena se desarrolla en un dormitorio, un espacio normalmente asociado con la intimidad y la seguridad. Sin embargo, la presencia de una persona desconocida transforma este lugar en un espacio amenazante.",
+     "overlay": "both"
+    },
+    "lignes": {
+     "text": "Las líneas guían la mirada del espectador del ojo hacia el cuerpo de la mujer dormida y luego el título.",
+     "lines": [
+      {
+       "x1": 56.19,
+       "y1": 0.93,
+       "x2": 56.29,
+       "y2": 64.44
+      },
+      {
+       "x1": 43.17,
+       "y1": 0.44,
+       "x2": 43.1,
+       "y2": 60.28
+      },
+      {
+       "x1": 0.74,
+       "y1": 85.72,
+       "x2": 100,
+       "y2": 85.38
+      },
+      {
+       "x1": 0.53,
+       "y1": 75.29,
+       "x2": 100,
+       "y2": 74.81
+      }
+     ]
+    },
+    "auteur": {
+     "text": "Mientras duermes es una película española de suspense y terror psicológico dirigida por Jaume Balagueró y estrenada en 2011.\nCuenta la historia de César, un portero que conoce los secretos de los vecinos de su edificio y utiliza esta información para manipular sus vidas. Clara, una joven alegre, se convierte en su principal obsesión.\nEn el cartel aparecen los nombres de los actores Luis Tosar y Marta Etura."
+    },
+    "interpretation": {
+     "text": "El cartel de Mientras duermes transforma una situación cotidiana, dormir en casa, en una escena inquietante.\nLa oposición entre la mujer dormida y el ojo que la observa representa la diferencia entre la inocencia y la amenaza. Gracias a los colores oscuros, la iluminación y la composición, el espectador siente miedo e inseguridad.\nEl mensaje principal del cartel es que incluso en nuestra propia casa podemos estar en peligro sin saberlo."
+    }
+   },
+   "spots": [
+    {
+     "id": "imuzh6nnueweji",
+     "x": 51.12,
+     "y": 25.76,
+     "cat": "composition",
+     "title": "El ojo que observa",
+     "text": "En la parte superior del cartel, vemos un ojo que observa a través de una puerta entreabierta. Este elemento representa la vigilancia, el misterio y una posible amenaza."
+    },
+    {
+     "id": "imuzh7bkscwt2p",
+     "x": 69.2,
+     "y": 66.73,
+     "cat": "composition",
+     "title": "La mujer dormida",
+     "text": "En la parte inferior, una mujer está durmiendo en su cama. Parece tranquila y no se da cuenta de que alguien la está observando. Su posición transmite una sensación de vulnerabilidad."
+    }
+   ],
+   "updatedAt": 1791460491582
+  },
+  {
    "id": "imuf86zywyijqt",
    "title": "Cartel de la película - La llorona",
    "author": "Jayro Bustamente",
